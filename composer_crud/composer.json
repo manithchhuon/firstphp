@@ -1,0 +1,14 @@
+{
+    "name": "cs3/midterm",
+    "description": "this is midterm exam for cs3 semester1",
+    "type": "midterm",
+    "authors": [
+        {
+            "name": "thaiveng",
+            "email": "thaiveng2@gmail.com"
+        }
+    ],
+    "require": {
+        "simple-crud/simple-crud": "^6.12"
+    }
+}
